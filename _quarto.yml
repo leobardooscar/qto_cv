@@ -4,7 +4,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "Leobardo Óscar Alcántara Ocaña" 
+  title: "Leobardo Oscar Alcántara Ocaña" 
   site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
   repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
   repo-actions: [edit, source, issue]
